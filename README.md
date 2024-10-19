@@ -1,8 +1,8 @@
-# Cartographic Production - Campo Grande, Lisbon
-**Institution**: Faculdade de Ciências da Universidade de Lisboa
+# Cartographic Production - Campo Grande, Lisbon  
+**Institution**: Faculdade de Ciências da Universidade de Lisboa  
 **Course**: Cartographic Production  
-**Project Date**: 2021
-**Project Language**: Portuguese
+**Project Date**: 2022  
+**Project Language**: Portuguese  
 
 ## Project Overview
 The main project objective was to produce a detailed 1:5000 scale map of the Campo Grande region in Lisbon using stereorestitution and 3D glasses in **PhotoMOD**. The project leveraged georeferenced imagery from the previous Photogrammetry class. The data was drawn with XYZ coordinates in PhotoMOD and later exported to **QGIS** for final adjustments and presentation. The final map adhered to the **Level of Detail 2 (NdD2)** standard established by the **Portuguese Directorate General for the Territory (DGT)**.
@@ -23,6 +23,8 @@ Additionally, a small Python code was developed to generate an **Orthophoto** us
 - Stereorestitution of XYZ data using 3D glasses in PhotoMOD.
 - Final map presented with a legend and symbolization in QGIS.
 - Orthophoto generation with a custom Python script.
+
+![Overview](images/restitution_final.png)
 
 ## Project Structure
 - `/map`: Final map in PDF or image format
