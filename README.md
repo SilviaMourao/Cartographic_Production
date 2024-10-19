@@ -29,6 +29,7 @@ Additionally, a small Python code was developed to generate an **Orthophoto** us
 - `/orthophoto`: Python script for orthophoto generation
 - `/SQL_queries`: SQL validation
 - `/presentation`: Slides used to present the project
+- `/images`: Additional images of the project
 
 ---
 
